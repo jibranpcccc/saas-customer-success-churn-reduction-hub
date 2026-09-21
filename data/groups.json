@@ -1,5 +1,24 @@
 [
   {
+    "id": "saas-customer-success-churn-reduction-hub-forum-20260921-1",
+    "title": "Indie Hackers Community",
+    "platform": "Forum",
+    "category": "Bootstrapping",
+    "memberCount": "250,000+ members",
+    "description": "Transparent revenue shares, founder interviews, and practical guides for bootstrapping profitable online businesses.",
+    "joinUrl": "https://www.indiehackers.com",
+    "tags": [
+      "indiehackers",
+      "bootstrapping",
+      "forum",
+      "saas"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-21"
+  },
+  {
     "id": "saas-customer-success-churn-reduction-hub-telegram-20260920-1",
     "title": "Global Startups Hub Channel",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-20"
   },
   {
