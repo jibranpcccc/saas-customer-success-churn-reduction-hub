@@ -1,5 +1,24 @@
 [
   {
+    "id": "saas-customer-success-churn-reduction-hub-discord-20260923-1",
+    "title": "Rust Programming Language Discord",
+    "platform": "Discord",
+    "category": "Systems Programming",
+    "memberCount": "95,000+ members",
+    "description": "Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.",
+    "joinUrl": "https://discord.gg/rust-lang",
+    "tags": [
+      "rust",
+      "systems",
+      "discord",
+      "compiler"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-23"
+  },
+  {
     "id": "saas-customer-success-churn-reduction-hub-reddit-20260922-1",
     "title": "r/rust Systems Programming",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-22"
   },
   {
