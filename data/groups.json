@@ -1,5 +1,24 @@
 [
   {
+    "id": "saas-customer-success-churn-reduction-hub-reddit-20260925-1",
+    "title": "r/typescript Architecture",
+    "platform": "Reddit",
+    "category": "Web Development",
+    "memberCount": "190,000+ members",
+    "description": "Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.",
+    "joinUrl": "https://www.reddit.com/r/typescript/",
+    "tags": [
+      "typescript",
+      "javascript",
+      "webdev",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-25"
+  },
+  {
     "id": "saas-customer-success-churn-reduction-hub-telegram-20260924-1",
     "title": "Rust Language News & Updates",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-24"
   },
   {
