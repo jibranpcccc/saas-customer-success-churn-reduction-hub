@@ -1,5 +1,24 @@
 [
   {
+    "id": "saas-customer-success-churn-reduction-hub-reddit-20260927-1",
+    "title": "r/cpp High Performance Systems",
+    "platform": "Reddit",
+    "category": "Systems Programming",
+    "memberCount": "310,000+ members",
+    "description": "Discussions on modern C++ (C++17/20/23), memory models, template metaprogramming, and graphics pipelines.",
+    "joinUrl": "https://www.reddit.com/r/cpp/",
+    "tags": [
+      "cpp",
+      "systems",
+      "performance",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-27"
+  },
+  {
     "id": "saas-customer-success-churn-reduction-hub-reddit-20260925-1",
     "title": "r/typescript Architecture",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-25"
   },
   {
