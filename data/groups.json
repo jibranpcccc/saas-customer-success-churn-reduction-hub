@@ -1,5 +1,24 @@
 [
   {
+    "id": "saas-customer-success-churn-reduction-hub-github-20260930-1",
+    "title": "Rust Language GitHub Discussions",
+    "platform": "GitHub",
+    "category": "Systems Programming",
+    "memberCount": "100,000+ contributors",
+    "description": "Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.",
+    "joinUrl": "https://users.rust-lang.org",
+    "tags": [
+      "rust",
+      "github",
+      "systems",
+      "rfc"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-30"
+  },
+  {
     "id": "saas-customer-success-churn-reduction-hub-discord-20260929-1",
     "title": "Vue Land Community Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-29"
   },
   {
