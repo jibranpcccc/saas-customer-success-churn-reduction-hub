@@ -1,5 +1,24 @@
 [
   {
+    "id": "saas-customer-success-churn-reduction-hub-reddit-7",
+    "title": "r/smallbusiness Operators",
+    "platform": "Reddit",
+    "category": "Operations",
+    "memberCount": "1,800,000+ members",
+    "description": "Practical operational knowledge, vendor contract negotiations, tax compliance, and business banking.",
+    "joinUrl": "https://www.reddit.com/r/smallbusiness/",
+    "tags": [
+      "business",
+      "operations",
+      "smallbusiness",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "id": "saas-customer-success-churn-reduction-hub-reddit-6",
     "title": "r/sales B2B Outbound & Pipeline",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -454,24 +473,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
-  },
-  {
-    "id": "saas-customer-success-churn-reduction-hub-reddit-7",
-    "title": "r/smallbusiness Operators",
-    "platform": "Reddit",
-    "category": "Operations",
-    "memberCount": "1,800,000+ members",
-    "description": "Practical operational knowledge, vendor contract negotiations, tax compliance, and business banking.",
-    "joinUrl": "https://www.reddit.com/r/smallbusiness/",
-    "tags": [
-      "business",
-      "operations",
-      "smallbusiness",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "saas-customer-success-churn-reduction-hub-reddit-8",
